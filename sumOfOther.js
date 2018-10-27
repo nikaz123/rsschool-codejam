@@ -1,4 +1,4 @@
-function sumOfOther (arr) {
+function sumOfOther(arr) {
   function add(a, b) {
     return a + b;
   }

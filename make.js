@@ -1,4 +1,4 @@
-function make (a) {
+function make(a) {
   let store = [];
   store = store.concat(Array.from(arguments));
   const mmake = function (a) {
